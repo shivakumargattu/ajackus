@@ -3,6 +3,8 @@
 A fully functional, responsive front-end application for managing employee data. Built using **HTML**, **CSS**, and **vanilla JavaScript**, with dynamic rendering and local storage persistence.
 
 ---
+live Url:https://ajackus-eosin.vercel.app/
+<img width="1875" height="958" alt="image" src="https://github.com/user-attachments/assets/4d69e650-4715-42a4-b4f2-1d2746d88920" />
 
 ## 📦 Features
 
