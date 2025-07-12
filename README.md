@@ -25,3 +25,11 @@ employee-directory/
 ├── js/
 │ └── main.js
 ├── README.md
+
+
+
+🧪 Mock Data
+50 fake employees are seeded on first load.
+
+After that, changes are stored in localStorage.
+
